@@ -1,16 +1,20 @@
-## Hi there 👋
+# ARUHAWORKS
 
-<!--
-**aruhaworks/aruhaworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer & FiveM Developer
 
-Here are some ideas to get you started:
+I'm Aruha, founder of **ARUHAWORKS**. I build high-performance systems, modern interfaces and custom software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔨 Currently Working On
+- FiveM systems & resources
+- Discord infrastructure
+- Modern React / NUI interfaces
+- Security & performance-focused tools
+
+### 🛠️ Tools & Technologies
+`Lua` · `JavaScript` · `TypeScript` · `React` · `Node.js` · `SQL` · `ESX` · `Qbox`
+
+### 📫 Contact
+**Discord:** [discord.gg/pluslt](https://discord.gg/pluslt)  
+**Website:** [listify.lt/aruhaworks](https://listify.lt/aruhaworks)
+
+> Building clean. Building secure. Building to last.
